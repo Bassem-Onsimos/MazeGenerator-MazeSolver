@@ -12,8 +12,7 @@ public class Initialize {
         BlockWiseMazeGenerator mazeGen = new BlockWiseMazeGenerator(20, 20, 30, frame);
         MazeConverter maze = new MazeConverter(mazeGen, frame);
         DFSMazeSolver mazeSolver = new DFSMazeSolver(maze, frame);
-        
-        
+           
     }
      
 }

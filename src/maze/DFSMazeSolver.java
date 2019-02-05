@@ -35,8 +35,6 @@ public class DFSMazeSolver extends JPanel {
 
         frame.add(this);
         frame.pack();
-        //frame.setLocationRelativeTo(null);
-        //frame.setLocation(10, 0);
         frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
         frame.setVisible(true);
         

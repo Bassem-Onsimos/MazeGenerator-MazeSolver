@@ -36,8 +36,6 @@ public class MazeConverter extends JPanel{
 
         frame.add(this);
         frame.pack();
-        //frame.setLocationRelativeTo(null);
-        //frame.setLocation(970, 50);
         frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
         frame.setVisible(true);
 
